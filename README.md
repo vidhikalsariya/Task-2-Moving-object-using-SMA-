@@ -1,7 +1,7 @@
 # Task-2-Moving-object-using-SMA-
 This Python program calculates the Simple Moving Average (SMA) for a list of closing prices. It uses Pandas DataFrame to store the dates and close prices, and a custom function simple() to manually compute SMA using loops.
 
-#Step-by-Step Explanation 
+# Step-by-Step Explanation 
 
 Step 1: Import pandas
 import pandas as pd
@@ -59,7 +59,7 @@ return df
 result = simple(df, 5)
 print(result)
 
-#Features
+# Features
 
 ✔ Manual SMA Calculation (No built-in rolling functions)
 ✔ Beginner-friendly code with clear logic
@@ -71,7 +71,7 @@ print(result)
 ✔ Fully offline — no API required
 
 
-#How It Works (Step-by-Step)
+# How It Works (Step-by-Step)
 
 
 1️⃣ Create a sample dataset
