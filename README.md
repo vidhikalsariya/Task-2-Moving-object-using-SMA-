@@ -70,9 +70,9 @@ Features
 ✔ Easily extendable for API or trading bot use
 ✔ Fully offline — no API required
 
-<b>
-How It Works (Step-by-Step)
-</b>
+
+**How It Works** (Step-by-Step)
+
 
 1️⃣ Create a sample dataset
 A date range is generated using pd.date_range()
